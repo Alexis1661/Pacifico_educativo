@@ -22,7 +22,7 @@ const ICONOS_CHAT = {
 
 const BOTONES_RAPIDOS = {
   'El Riviel': [
-    { texto: 'Hazme una pregunta', mensaje: 'Hazme una pregunta de matematicas' },
+    { texto: 'Hazme una pregunta', mensaje: 'Hazme una pregunta de matemáticas' },
     { texto: 'Cuentame una historia', mensaje: 'Cuentame una historia del rio' },
     { texto: 'Necesito una pista', mensaje: 'Ayudame con una pista del nivel' },
   ],
@@ -37,7 +37,7 @@ const BOTONES_RAPIDOS = {
     { texto: 'I need help', mensaje: 'Help me with the English words' },
   ],
   'La Madre de Agua': [
-    { texto: 'Hazme una pregunta', mensaje: 'Hazme una pregunta de biologia' },
+    { texto: 'Hazme una pregunta', mensaje: 'Hazme una pregunta de biología' },
     { texto: 'Cuentame una historia', mensaje: 'Cuentame una historia del manglar' },
     { texto: 'Necesito una pista', mensaje: 'Ayudame con los seres vivos' },
   ],
